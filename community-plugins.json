@@ -24337,5 +24337,12 @@
     "author": "Lumingtianze",
     "description": "This plugin has not been manually reviewed by Obsidian staff. A high-performance transparent full-database encryption scheme based on Argon2id + AES-GCM.",
     "repo": "lumingtianze/obsidian-phantom-cipher"
+  },
+  {
+    "id": "folder-crypto",
+    "name": "Folder Crypto",
+    "author": "JasonSting",
+    "description": "Lock vault folders with a password and optionally encrypt Markdown files inside selected folders.",
+    "repo": "jasonsting622-netizen/folder-crypto"
   }
 ]
