@@ -24244,7 +24244,7 @@
     "id": "handwriting-notes",
     "name": "Handwriting Notes",
     "author": "JasonSting",
-    "description": "Apple Notes-like handwriting experience with stylus and finger support. Draw and annotate directly inside your vault.",
+    "description": "Apple Notes-like handwriting experience with stylus and finger support.",
     "repo": "jasonsting622-netizen/obsidian-handwriting-notes"
   }
 ]
